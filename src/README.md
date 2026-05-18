@@ -1,4 +1,4 @@
-# CodeNight 2022
+# CodeNight 2022[^course]
 
 _by Felix Peter Paul_
 
@@ -12,7 +12,7 @@ Jeder der noch weiter mit Blockly programmieren will kann das jederzeit [unter d
 
 # HTML
 
-### ⚠️ [Unter diesem Link geht es zum Tierpark](https://fepaul-book.github.io/tierpark-website/UnsereTierwelt.html).
+### ⚠️ [Unter diesem Link geht es zum Tierpark](https://tierparks.felix-paul.de).
 
 Dort könnt ihr in der Liste euer Tier auswählen und eure eigene Website sehen.
 

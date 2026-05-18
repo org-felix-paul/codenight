@@ -45,7 +45,7 @@ Man muss angeben welchen Ort man einfügen will (src), wie groß das eingefügte
 Klicke auf die unten angegebene Email- Adresse und gucke was passiert. (Es sollte sich ein neues Fenster öffnen)
 <hr>
 <a href="mailto:info@unserTierpark.de" title="Schreiben Sie uns eine E-Mail">Schreibe an info@unser-Tierpark.de</a>
-</br>
+<br>
 <a href="tel:06764899450" title="Rufen Sie uns an">06764 899 45 0.</a>
 <hr> 
 
@@ -57,7 +57,7 @@ Um das hinzubekommen analysieren wir den folgenden Quelltext.
 
         <a href="mailto:info@unserTierpark.de" 
         title="Schreiben Sie uns eine E-Mail">Schreib an info@unser-Tierpark.de</a>
-        </br>
+        <br>
         <a href="tel:06764899450" 
         title="Rufen Sie uns an">06764 899 45 0.</a>
 

@@ -1,14 +1,13 @@
 [book]
 authors = ["Felix Peter Paul"]
 language = "de"
-multilingual = false
 description="Dieses Buch enthält alle wichtigen Informationen zur Codenight 2022"
 src = "src"
 title = "CodeNight"
 
 [output.html]
 git-repository-url = "https://fepaul-book.github.io"
-git-repository-icon = "fa-code-fork"
+git-repository-icon = "fas-code-fork"
 
 [build]
 build-dir = "docs"
